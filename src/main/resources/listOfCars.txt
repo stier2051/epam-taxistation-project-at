@@ -1,0 +1,15 @@
+Passenger Hyundai "Accent" 6000000 160 6 econom 3
+Passenger TOYOTA "Corolla" 9000500 160 6 econom 3
+Passenger Lada "Vesta" 5500000 150 7 econom 4
+Passenger MAZDA "5" 8345200 170 10 comfort 7
+Passenger Mazda "CX5" 12500300 180 9 comfort 3
+Passenger NISSAN 18350332 175 11 business 3
+Passenger KIA "Carnival" 25439000 165 14 business 7
+Delivery RENAULT "NewMaster" 20320404 145 12 delivery 919
+Delivery Hyundai "H-1" 21546078 150 11 delivery 1050
+Delivery Toyota "Hilux" 23455000 140 13 delivery 1950
+Delivery GAZ "2217" 6500000 135 10 delivery 2200
+Delivery GAZ "3302" 7000000 135 11 delivery 2500
+Delivery GAZ "Next" 10000000 130 9 delivery 3000
+Passenger GAZ "NextCityline" 20000000 150 11 minibus 15
+Passenger Mercedes "Sprinter" 31000500 160 12 minibus 15
